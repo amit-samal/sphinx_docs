@@ -1,6 +1,6 @@
 <left><img src="img/scaLR_logo.png" width="150" height="180"></left>
 
-# Single-cell analysis using Low Resource (scaLR) 
+# Single-cell analysis using Low Resource (scaLR) (Im changing here)
 
 
 [![GitHub](https://img.shields.io/github/license/InFoCusp/scaLR)](https://github.com/infocusp/scaLR?tab=GPL-3.0-1-ov-file#)
